@@ -5,3 +5,6 @@
 dart run build_runner build --delete-conflicting-outputs
 ```
 4. After the previous steps, build and run the project.
+
+
+This is a project that uses polygon flutter sdk to make life easy by verifying identities in a decentralized manner.
